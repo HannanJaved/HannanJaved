@@ -33,8 +33,8 @@ I'm currently pursuing a PhD at the ELLIS Institute Tübingen, where I focus on 
 
 </div>
 
-- Finetuning, Evaluation, and multi-fidelity HPO for finetuned Small Language Models
-- Finding optimal dataset mixtures for the annealing phase of pretraining for LLMs
+- Finetuning and Evaluation for Small Language Models (upto 8B params)
+- Finding optimal dataset mixtures for the annealing phase of pretraining for LLMs using synetune 
 - Exploring ways to expand my master thesis (Fairness in Recommendations using Graph Neural Networks)
 
 Open to collaboration and discussion on any of these topics! 😃
