@@ -179,7 +179,7 @@ In this paper, we propose FAME (Fairness-Aware MEssages), an in-processing bias 
 
 </div>
 
-I can speak the following languages:
+I speak the following languages fluently:
 <p align="left">
   <img src="https://img.shields.io/badge/English-1a1b27?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/German-2C5AA0?style=for-the-badge&logoColor=white"/>
