@@ -91,13 +91,21 @@ Open to collaboration and discussion on any of these topics! 😃
 
 ---
 
-## Connect With Me
+## Connect With Me!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ggeorge185](https://www.linkedin.com/in/hannan-mahadik/))
 
 </div>
+
+I can speak:
+<p align="center">
+  <img src="https://img.shields.io/badge/English-1a1b27?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/German-2C5AA0?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hindi-FF9933?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Urdu-B19CD9?style=flat&logoColor=white"/>
+</p>
 
 ---
 
