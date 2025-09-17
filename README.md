@@ -1,6 +1,6 @@
 # Hi, I'm Hannan Mahadik 👋
 
-PhD Student at [ELLIS Institute Tübingen](https://ellis.eu/institutes/tuebingen) | AI Researcher | Open LLM Research
+PhD Student at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) | AI Researcher | Open LLM Research
 
 ---
 
