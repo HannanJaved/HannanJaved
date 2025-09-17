@@ -1,4 +1,9 @@
-![Profile Views](https://komarev.com/ghpvc/?username=HannanJaved&style=flat-square&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=HannanJaved&style=flat-square&color=B19CD9&style=flat)
+![PhD Student](https://img.shields.io/badge/PhD-ELLIS%20Institute-4B8BBE?style=flat-square&color=B19CD9&style=flat)
+![Open for Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-brightgreen?style=flat-square)
+![Currently Mentoring](https://img.shields.io/badge/Mentoring-Active-blue?style=flat-square&color=B19CD9&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hannan-mahadik/)
+[![Blog](https://img.shields.io/badge/Blog-Read%20my%20AI%20articles-orange?style=flat-square&color=B19CD9&style=flat)](https://hannanjaved.github.io/AI-blog/)
 
 # Hi, I'm Hannan Mahadik 👋
 
@@ -34,22 +39,43 @@ Open to collaboration and discussion on any of these topics! 😃
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![LM eval harness](https://img.shields.io/badge/LM%20eval%20harness-4B8BBE?style=flat)
-![Megatron](https://img.shields.io/badge/Megatron-000000?style=flat)
-![Arena-hard](https://img.shields.io/badge/Arena--hard-007ACC?style=flat)
-![Tulu](https://img.shields.io/badge/Tulu-00796B?style=flat)
+<h3 align="center">Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+</p>
+
+<h3 align="center">AI & Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LM%20eval%20harness-4B8BBE?style=flat"/>
+  <img src="https://img.shields.io/badge/Megatron-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Arena--hard-007ACC?style=flat"/>
+  <img src="https://img.shields.io/badge/Tulu-00796B?style=flat"/>
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=black"/>
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+</p>
 
 ---
 
 ## Featured Projects
 
-- [GNNs_FAME](https://github.com/HannanJaved/GNNs_FAME): My master's thesis on Graph Neural Networks for Fair and Adaptive Model Evaluation
+- [GNNs_FAME](https://github.com/HannanJaved/GNNs_FAME): My master's thesis on Graph Neural Networks for Fairer Recommendations
 - [Whittle](https://github.com/whittle-org/whittle): Python library to compress LitGPT models for resource efficient inference
-- [AI-blog](https://github.com/HannanJaved/AI-blog): Sharing insights and articles at the intersection of AI and research
+- [AI-blog](https://github.com/HannanJaved/AI-blog): Sharing insights and articles at the intersection of AI and research - aimed at university students
 - [arena-hard-auto-private](https://github.com/HannanJaved/arena-hard-auto-private): Data analysis on language models judged by an LLM using Arena-Hard
 - [synetune-annealing-experiments-oellm](https://github.com/HannanJaved/synetune-annealing-experiments-oellm): Using Synetune to find data weights for annealing experiments
 
@@ -83,5 +109,20 @@ Open to collaboration and discussion on any of these topics! 😃
 
 ---
 
-<!-- GitHub Streaks & Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=HannanJaved&theme=default)
+<div align="center">
+
+## 📊 GitHub Analytics
+
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HannanJaved&bg_color=0d1117&color=B19CD9&line=B19CD9&point=c9d1d9&area=true&hide_border=false&border_color=B19CD9" width="100%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HannanJaved&theme=radical&background=0d1117&stroke=B19CD9&ring=B19CD9&fire=B19CD9&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=c9d1d9" width="100%">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=HannanJaved&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9" width="100%">
+
+</div>
