@@ -1,4 +1,4 @@
-# Hi, I'm Hannan Javed 👋
+# Hi, I'm Hannan Mahadik 👋
 
 PhD Student at [ELLIS Institute Tübingen](https://ellis.eu/institutes/tuebingen) | AI Researcher | Open LLM Research
 
