@@ -187,6 +187,9 @@ I speak the following languages fluently:
   <img src="https://img.shields.io/badge/Urdu-B19CD9?style=for-the-badge&logoColor=white"/>
 </p>
 
-Message me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannan-mahadik/)
+Message me on:
+<a href="https://www.linkedin.com/in/hannan-mahadik/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hannan Mahadik LinkedIn" height="30" width="40" />
+</a>
 
 ---
