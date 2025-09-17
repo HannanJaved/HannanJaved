@@ -15,6 +15,7 @@
 
 ---
 > “Research is about pushing boundaries, and mentoring is about helping others find theirs.”
+> <div align="right" <p style="font-size:14px;"><em>— David Clutterbuck</em></p> </div>
 ---
 
 <div align="center">
