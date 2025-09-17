@@ -2,13 +2,14 @@
 ![PhD Student](https://img.shields.io/badge/PhD-ELLIS%20Institute-4B8BBE?style=flat-square&color=B19CD9&style=flat)
 ![Open for Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-brightgreen?style=flat-square)
 ![Currently Mentoring](https://img.shields.io/badge/Mentoring-Active-blue?style=flat-square&color=B19CD9&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hannan-mahadik/)
 [![Blog](https://img.shields.io/badge/Blog-Read%20my%20AI%20articles-orange?style=flat-square&color=B19CD9&style=flat)](https://hannanjaved.github.io/AI-blog/)
 
 # Hi, I'm Hannan Mahadik 👋
 
 PhD Student at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) | AI Researcher | Open LLM Research
 
+---
+> “Research is about pushing boundaries, and mentoring is about helping others find theirs.”
 ---
 
 ## About Me
@@ -39,7 +40,7 @@ Open to collaboration and discussion on any of these topics! 😃
 
 ## Tech Stack
 
-<h3 align="center">Languages & Frameworks</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
@@ -90,10 +91,13 @@ Open to collaboration and discussion on any of these topics! 😃
 
 ---
 
-## Connect with Me
+## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/hannan-mahadik/)
-- [My Blog](https://hannanjaved.github.io/AI-blog/)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ggeorge185](https://www.linkedin.com/in/hannan-mahadik/))
+
+</div>
 
 ---
 
@@ -102,10 +106,6 @@ Open to collaboration and discussion on any of these topics! 😃
 - I played U-19 and U-16 Cricket for the Kuwait National Team.
 - I have been an international student mentor at OvGU, Magdeburg, for over three years.
 - I enjoy collaborating and exchanging ideas in AI, always open to new research conversations.
-
----
-
-> “Research is about pushing boundaries, and mentoring is about helping others find theirs.”
 
 ---
 
@@ -126,3 +126,5 @@ Open to collaboration and discussion on any of these topics! 😃
 <img src="https://github-profile-trophy.vercel.app/?username=HannanJaved&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9" width="100%">
 
 </div>
+
+---
