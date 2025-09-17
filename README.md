@@ -4,6 +4,7 @@
 ![Currently Mentoring](https://img.shields.io/badge/Mentoring-Active-blue?style=flat-square&color=B19CD9&style=flat)
 [![Blog](https://img.shields.io/badge/Blog-Read%20my%20AI%20articles-orange?style=flat-square&color=B19CD9&style=flat)](https://hannanjaved.github.io/AI-blog/)
 
+
 <div align="center">
 
 # Hi, I'm Hannan Mahadik 👋
@@ -60,16 +61,16 @@ Open to collaboration and discussion on any of these topics! 😃
 
 </div>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
+<h3 align="left">Programming Languages</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-<h3 align="center">AI & Machine Learning</h3>
-<p align="center">
+<h3 align="left">AI & Machine Learning</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -81,8 +82,8 @@ Open to collaboration and discussion on any of these topics! 😃
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
 </p>
 
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
+<h3 align="left">Tools & Platforms</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -107,6 +108,20 @@ Open to collaboration and discussion on any of these topics! 😃
 ---
 
 <div align="center">
+  
+## 📚 Publications
+
+</div>
+
+- *"GNN's FAME: Fairness-Aware MEssages for Graph Neural Networks"*  
+  *Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP '25), 2025.*  
+  [DOI: 10.1145/3699682.3728324](https://dl.acm.org/doi/10.1145/3699682.3728324)
+
+  > In this paper, we propose FAME (Fairness-Aware MEssages), an in-processing bias mitigation technique that modifies the GNN training's message-passing algorithm to ensure fairness across different demographic groups.
+
+---
+
+<div align="center">
 
   ## Interests
 
@@ -116,28 +131,6 @@ Open to collaboration and discussion on any of these topics! 😃
 - Model Compression and Knowledge Distillation
 - Teaching and mentoring
 - Writing and sharing ideas in AI
-
----
-
-<div align="center">
-
-  ## Connect With Me!
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ggeorge185](https://www.linkedin.com/in/hannan-mahadik/))
-
-</div>
-
-I can speak:
-<p align="center">
-  <img src="https://img.shields.io/badge/English-1a1b27?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/German-2C5AA0?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hindi-FF9933?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Urdu-B19CD9?style=flat&logoColor=white"/>
-</p>
 
 ---
 
@@ -170,5 +163,23 @@ I can speak:
 <img src="https://github-profile-trophy.vercel.app/?username=HannanJaved&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&bg_color=0d1117&title_color=B19CD9&text_color=c9d1d9&icon_color=B19CD9&border_color=B19CD9" width="100%">
 
 </div>
+
+---
+
+<div align="center">
+
+  ## Connect With Me!
+
+</div>
+
+I can speak the following languages:
+<p align="left">
+  <img src="https://img.shields.io/badge/English-1a1b27?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/German-2C5AA0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hindi-FF9933?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Urdu-B19CD9?style=for-the-badge&logoColor=white"/>
+</p>
+
+Message me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannan-mahadik/)
 
 ---
