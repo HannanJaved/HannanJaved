@@ -12,8 +12,6 @@
 
 </div>
 
-PhD Student at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) | AI Researcher | Open LLM Research
-
 ---
 > “Research is about pushing boundaries, and mentoring is about helping others find theirs.”
 ---
