@@ -2,6 +2,7 @@
 [![PhD Student](https://img.shields.io/badge/PhD%20Student-ELLIS%20Institute-4B8BBE?style=flat-square&color=B19CD9&style=flat)](https://institute-tue.ellis.eu/)
 ![Open for Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-blue?style=flat-square&style=flat&color=B19CD9)
 ![Currently Mentoring](https://img.shields.io/badge/Mentoring-Active-brightgreen?style=flat-square&style=flat)
+[![Connect with me](https://img.shields.io/badge/LinkedIn-Connect%20Here-blue?style=flat-square&style=flat)](https://www.linkedin.com/in/hannan-mahadik/)
 [![Blog](https://img.shields.io/badge/Blog-Read%20my%20articles-orange?style=flat-square&color=B19CD9&style=flat)](https://hannanjaved.github.io/AI-blog/)
 
 
