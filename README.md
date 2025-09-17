@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=HannanJaved&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=HannanJaved&style=flat-square&color=green)
 
 # Hi, I'm Hannan Mahadik 👋
 
@@ -79,7 +79,7 @@ Open to collaboration and discussion on any of these topics! 😃
 
 ---
 
-> “Research is about pushing boundaries—and mentoring is about helping others find theirs.”
+> “Research is about pushing boundaries, and mentoring is about helping others find theirs.”
 
 ---
 
