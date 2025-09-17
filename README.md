@@ -117,7 +117,14 @@ Open to collaboration and discussion on any of these topics! 😃
   *Proceedings of the 33rd ACM Conference on User Modeling, Adaptation and Personalization (UMAP '25), 2025.*  
   [DOI: 10.1145/3699682.3728324](https://dl.acm.org/doi/10.1145/3699682.3728324)
 
-  > In this paper, we propose FAME (Fairness-Aware MEssages), an in-processing bias mitigation technique that modifies the GNN training's message-passing algorithm to ensure fairness across different demographic groups.
+  > Graph Neural Networks (GNNs) have shown success in various domains but often inherit societal biases from training data, limiting their real-world applications. Historical data can contain patterns of discrimination related to sensitive attributes like age or gender. GNNs can even amplify these biases due to their topology and message-passing mechanism, where nodes with similar sensitive attributes tend to connect more frequently. While many studies have addressed algorithmic fairness in machine learning through pre-processing and post-processing techniques, few have focused on bias mitigation within the GNN training process.
+In this paper, we propose FAME (Fairness-Aware MEssages), an in-processing bias mitigation technique that modifies the GNN training’s message-passing algorithm to promote fairness. By incorporating a bias correction term, the FAME layer adjusts messages based on the difference between the sensitive attributes of connected nodes. FAME is compatible with Graph Convolutional Networks, and a variant called A-FAME is designed for attention-based GNNs. Experiments conducted on three datasets evaluate the effectiveness of our approach against three classes of algorithms and six models, considering two notions of algorithmic fairness. Results show that the proposed approaches produce accurate and fair node classifications. These results provide a strong foundation for further exploration and validation of this methodology. 
+
+- *"Ballista – ein Traum von Alexander"*  
+  *LEGO-Praktikum. Entwickeln, programmieren, optimieren : Berichte der Studierenden zum Projektseminar Elektrotechnik/Informationstechnik, 2019.*  
+  [DOI: 10.24352/UB.OVGU-2019-044](https://journals.ub.ovgu.de/index.php/LEGO/article/view/949)
+
+  > Robots and machine are taking over a lot of manual work, earlier done by men, and making it better by being not only quicker in doing the same task, but also in a much more This was the main aim of our project as we tried to engineer a efficient way. This paper is heavily based on the Ballista (Catapult) used by many great rulers including Alexander the Great in a bid to win wars. It is an engineering marvel built to launch projectiles across great distances inflicting quite some damage. Depending on the needs, a catapult can be modified and used to destroy or create an opening in mountain ranges or just simply as a war weapon. We have created a miniature, albeit working prototype of the same using the Lego Mindstorms NXT kit and programming of the same using MATLAB.
 
 ---
 
