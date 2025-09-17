@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=HannanJaved&style=flat-square&color=blue)
+
 # Hi, I'm Hannan Mahadik 👋
 
 PhD Student at [ELLIS Institute Tübingen](https://institute-tue.ellis.eu/) | AI Researcher | Open LLM Research
@@ -72,4 +74,4 @@ I'm currently pursuing a PhD at the ELLIS Institute Tübingen, where I focus on 
 ---
 
 <!-- GitHub Streaks & Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HannanJaved&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=HannanJaved&theme=default)
