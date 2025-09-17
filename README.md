@@ -5,12 +5,11 @@
 [![Connect with me](https://img.shields.io/badge/LinkedIn-Connect%20Here-blue?style=flat-square&style=flat)](https://www.linkedin.com/in/hannan-mahadik/)
 [![Blog](https://img.shields.io/badge/Blog-Read%20my%20articles-orange?style=flat-square&color=B19CD9&style=flat)](https://hannanjaved.github.io/AI-blog/)
 
-
 <div align="center">
 
 # Hi, I'm Hannan Mahadik 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=5000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=PhD%20Student%7CAI%2FML%20Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=5000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=50&lines=PhD%20Student%7CAI%2FML%20Researcher" alt="Typing SVG" />
 
 </div>
 
