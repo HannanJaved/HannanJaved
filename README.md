@@ -22,7 +22,14 @@ I'm currently pursuing a PhD at the ELLIS Institute Tübingen, where I focus on 
 
 ## Tech Stack
 
-Python | PyTorch | numpy | pandas | LM eval harness | Megatron | Arena-hard | Tulu | amongst other deep learning libraries and tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![LM eval harness](https://img.shields.io/badge/LM%20eval%20harness-4B8BBE?style=flat)
+![Megatron](https://img.shields.io/badge/Megatron-000000?style=flat)
+![Arena-hard](https://img.shields.io/badge/Arena--hard-007ACC?style=flat)
+![Tulu](https://img.shields.io/badge/Tulu-00796B?style=flat)
 
 ---
 
@@ -61,3 +68,8 @@ Python | PyTorch | numpy | pandas | LM eval harness | Megatron | Arena-hard | Tu
 ---
 
 > “Research is about pushing boundaries—and mentoring is about helping others find theirs.”
+
+---
+
+<!-- GitHub Streaks & Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HannanJaved&theme=default)
