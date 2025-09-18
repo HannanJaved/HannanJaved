@@ -48,7 +48,7 @@ Open to collaboration and discussion on any of these topics! 😃
 
 </div>
 
-- Deep Learning, including Generative Models like GANs, VAEs, etc.
+- Deep Learning, including Generative Models like VAEs, Diffusion models, GANs etc.
 - LLMs: Supervised Fine Tuning (SFT), Evaluation, Synthetic Data Generation, Pretraining
 - Model Compression & Knowledge Distillation
 - Graph Neural Networks (GNNs)
