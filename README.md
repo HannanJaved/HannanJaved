@@ -103,6 +103,7 @@ Open to collaboration and discussion on any of these topics! 😃
 - [Whittle](https://github.com/whittle-org/whittle): Python library to compress LitGPT models for resource efficient inference
 - [arena-hard-auto-private](https://github.com/HannanJaved/arena-hard-auto-private): Data analysis on language models judged by an LLM using Arena-Hard
 - [synetune-annealing-experiments-oellm](https://github.com/HannanJaved/synetune-annealing-experiments-oellm): Using Synetune to find data weights for annealing experiments
+- I also have my assignments from university for courses like Machine Learning, Deep Learning, Generative Models, etc. uploaded here.
 
 ---
 
