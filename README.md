@@ -99,9 +99,8 @@ Open to collaboration and discussion on any of these topics! 😃
 
 </div>
 
-- [GNNs_FAME](https://github.com/HannanJaved/GNNs_FAME): My master's thesis on Graph Neural Networks for Fairer Recommendations
+- [GNNs_FAME](https://github.com/HannanJaved/GNNs-FAME): My master thesis on mitigation of biases in Graph Neural Networks for fairer recommendations
 - [Whittle](https://github.com/whittle-org/whittle): Python library to compress LitGPT models for resource efficient inference
-- [AI-blog](https://github.com/HannanJaved/AI-blog): Sharing insights and articles at the intersection of AI and research - aimed at university students
 - [arena-hard-auto-private](https://github.com/HannanJaved/arena-hard-auto-private): Data analysis on language models judged by an LLM using Arena-Hard
 - [synetune-annealing-experiments-oellm](https://github.com/HannanJaved/synetune-annealing-experiments-oellm): Using Synetune to find data weights for annealing experiments
 
