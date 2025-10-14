@@ -9,7 +9,7 @@
 
 # Hi, I'm Hannan Mahadik 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=5000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=50&lines=PhD%20Student%7CAI%2FML%20Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=5000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=50&lines=PhD%20Student%7CAI%2FML%20Engineer" alt="Typing SVG" />
 
 </div>
 
