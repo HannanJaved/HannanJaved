@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HannanJaved&style=flat-square&color=B19CD9&style=flat)
-[![PhD Student](https://img.shields.io/badge/PhD%20Student-ELLIS%20Institute-4B8BBE?style=flat-square&color=B19CD9&style=flat)](https://institute-tue.ellis.eu/en/projects/openeurollm#members)
+[![PhD Student](https://img.shields.io/badge/PhD%20Student-ELLIS%20Institute-4B8BBE?style=flat-square&color=B19CD9&style=flat)](https://institute-tue.ellis.eu/)
 ![Open for Collaboration](https://img.shields.io/badge/Open%20for-Collaboration-blue?style=flat-square&style=flat&color=B19CD9)
 ![Currently Mentoring](https://img.shields.io/badge/Mentoring-Active-brightgreen?style=flat-square&style=flat)
 [![Connect with me](https://img.shields.io/badge/LinkedIn-Connect%20Here-blue?style=flat-square&style=flat)](https://www.linkedin.com/in/hannan-mahadik/)
@@ -9,7 +9,7 @@
 
 # Hi, I'm Hannan Mahadik 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=5000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=50&lines=PhD%20Student%7CAI%2FML%20Scientist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=5000&color=B19CD9&center=true&vCenter=true&multiline=true&width=600&height=50&lines=PhD%20Student%7CResearch%20Scientist" alt="Typing SVG" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 </div>
   
-I'm currently pursuing a PhD at the ELLIS Institute Tübingen, where I focus on research in artificial intelligence — especially Large Language Models (LLMs), deep learning, and model compression. My work is hands-on and experimental. I also enjoy mentoring students and sharing knowledge with the community.
+I'm currently pursuing a PhD at the ELLIS Institute Tübingen, where I focus on research in Large Language Models (LLMs), deep learning, and model compression. I am part of the OpenEuroLLM project (read more [here](https://institute-tue.ellis.eu/en/projects/openeurollm)). I also enjoy mentoring students and sharing knowledge with the community.
 
 ---
 
