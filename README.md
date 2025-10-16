@@ -34,8 +34,8 @@ I'm currently pursuing a PhD at the ELLIS Institute Tübingen, where I focus on 
 
 </div>
 
-- Finetuning and Evaluation for Small Language Models (upto 8B params)
-- Finding optimal dataset mixtures for the annealing phase of pretraining for LLMs using synetune 
+- Post-Trainining (SFT + RL) and Evaluation for Language Models
+- Finding optimal dataset mixtures for pretraining Language Models using HPO (from synetune library)
 - Exploring ways to expand my master thesis (Fairness in Recommendations using Graph Neural Networks)
 
 Open to collaboration and discussion on any of these topics! 😃
@@ -49,7 +49,7 @@ Open to collaboration and discussion on any of these topics! 😃
 </div>
 
 - Deep Learning, including Generative Models like VAEs, Diffusion models, GANs etc.
-- LLMs: Supervised Fine Tuning (SFT), Evaluation, Synthetic Data Generation, Pretraining
+- LLMs: Post-training, Evaluation, Synthetic Data Generation, Pretraining (not as much)
 - Model Compression & Knowledge Distillation
 - Graph Neural Networks (GNNs)
 - Teaching & Mentoring
