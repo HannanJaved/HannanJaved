@@ -138,6 +138,7 @@ In this paper, we propose FAME (Fairness-Aware MEssages), an in-processing bias 
 - Model Compression and Knowledge Distillation
 - Teaching and mentoring
 - Writing and sharing ideas in AI
+- I enjoy collaborating and exchanging ideas in AI, always open to new research conversations.
 
 ---
 
@@ -149,7 +150,6 @@ In this paper, we propose FAME (Fairness-Aware MEssages), an in-processing bias 
 
 - I played U-19 and U-16 Cricket for the Kuwait National Team.
 - I have been an international student mentor at OvGU, Magdeburg, for over three years.
-- I enjoy collaborating and exchanging ideas in AI, always open to new research conversations.
 
 ---
 
