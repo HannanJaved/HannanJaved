@@ -34,8 +34,8 @@ I'm currently pursuing a PhD at the ELLIS Institute Tübingen, where I focus on 
 
 </div>
 
-- Post-Trainining (SFT + RL) and Evaluation for Language Models
-- Finding optimal dataset mixtures for pretraining Language Models using HPO (from synetune library)
+- Post-Trainining (SFT + RL) and Evaluation (static + LLM-as-a-judge) for Language Models 
+- Finding optimal dataset mixtures for pretraining Language Models using HPO (with the synetune library)
 - Exploring ways to expand my master thesis (Fairness in Recommendations using Graph Neural Networks)
 
 Open to collaboration and discussion on any of these topics! 😃
